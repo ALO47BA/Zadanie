@@ -1,4 +1,4 @@
-if global.Score >= 2 {
+if global.Score >= 75 {
 	instance_destroy(obj_enemy);	
 	instance_destroy(obj_smallBullet);	
 	instance_destroy(obj_bigBullet);	
