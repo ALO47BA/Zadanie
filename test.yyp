@@ -44,7 +44,6 @@
     {"id":{"name":"spr_smallBullet","path":"sprites/spr_smallBullet/spr_smallBullet.yy",},},
     {"id":{"name":"obj_Text","path":"objects/obj_Text/obj_Text.yy",},},
     {"id":{"name":"obj_bigBullet","path":"objects/obj_bigBullet/obj_bigBullet.yy",},},
-    {"id":{"name":"Level1End","path":"scripts/Level1End/Level1End.yy",},},
     {"id":{"name":"obj_barrier","path":"objects/obj_barrier/obj_barrier.yy",},},
     {"id":{"name":"Control","path":"objects/Control/Control.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
