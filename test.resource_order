@@ -22,6 +22,7 @@
     {"name":"obj_smallBullet","order":3,"path":"objects/obj_smallBullet/obj_smallBullet.yy",},
     {"name":"spr_enemy","order":1,"path":"sprites/spr_enemy/spr_enemy.yy",},
     {"name":"spr_smallBullet","order":2,"path":"sprites/spr_smallBullet/spr_smallBullet.yy",},
+    {"name":"obj_Text","order":6,"path":"objects/obj_Text/obj_Text.yy",},
     {"name":"obj_bigBullet","order":5,"path":"objects/obj_bigBullet/obj_bigBullet.yy",},
     {"name":"obj_barrier","order":4,"path":"objects/obj_barrier/obj_barrier.yy",},
     {"name":"Control","order":2,"path":"objects/Control/Control.yy",},
