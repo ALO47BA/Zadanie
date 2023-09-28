@@ -1,10 +1,10 @@
 if getReady = true {
 	count = count + 1;
 	randomize();
-	TimeBetweenShots = floor(random_range(global.Score+1, (global.Score+1)*4));
+	TimeBetweenShots = floor(random_range(180, 300/global.Score));
 	show_debug_message(TimeBetweenShots);
 	randomize();
-	ifBig = irandom_range(0, 5);
+	ifBig = irandom_range(0, 20);
 
 	if (count >= TimeBetweenShots) { 
 	    if instance_exists(obj_player) {

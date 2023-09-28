@@ -10,4 +10,5 @@ for (i = 0; i < 2; i++) {
 stage1Cleared1 = false;
 stage1Cleared2 = false;
 
-global.Score = 0;
+global.Score = 1;
+global.Level = 1;
